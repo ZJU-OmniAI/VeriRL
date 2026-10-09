@@ -21,6 +21,19 @@
 </p>
 
 
+<!-- hf-downloads:start -->
+## Hugging Face downloads
+
+All-time download counts as of **2026-10-10 (UTC+8)**. Each count links to the Hugging Face API (`downloadsAllTime`).
+
+| Resource | Type | All-time downloads |
+| :--- | :--- | ---: |
+| [Verirl-CodeQwen2.5](https://huggingface.co/tttboy/Verirl-CodeQwen2.5) | Model | [114](https://huggingface.co/api/models/tttboy/Verirl-CodeQwen2.5?expand%5B%5D=downloadsAllTime) |
+| [Veribench-53K](https://huggingface.co/datasets/tttboy/Veribench-53K) | Dataset | [752](https://huggingface.co/api/datasets/tttboy/Veribench-53K?expand%5B%5D=downloadsAllTime) |
+
+**Total: 866 downloads** — models: **114**; dataset: **752**.
+<!-- hf-downloads:end -->
+
 ## Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
